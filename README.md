@@ -13,6 +13,8 @@
 > gulp watch
 #
 > ionic serve
+#
+> ionic serve --lab
 
 ### Build
 > ionic platform add <platform>
